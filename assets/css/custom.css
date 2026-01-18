@@ -317,10 +317,10 @@
 
 /* Triangle shape */
 .floating-shapes .shape-triangle {
-  width: 0;
-  height: 0;
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
+  width: 20px;
+  height: 20px;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
   border-bottom: 35px solid rgba(0, 123, 255, 0.08);
   top: 60%;
   right: 15%;
